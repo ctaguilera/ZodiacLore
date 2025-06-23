@@ -1,0 +1,2 @@
+# ZodiacLore
+Astrology SAAS Project
